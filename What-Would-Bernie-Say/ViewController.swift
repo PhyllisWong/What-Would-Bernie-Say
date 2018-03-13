@@ -9,7 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var wwbsLabel: UILabel!
+    
 
+    @IBAction func faceButton(_ sender: UIButton) {
+        print("face button was tapped")
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

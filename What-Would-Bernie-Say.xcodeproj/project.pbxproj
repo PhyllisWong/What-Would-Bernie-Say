@@ -12,6 +12,8 @@
 		B95D2EA72058418200E12E16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B95D2EA52058418200E12E16 /* Main.storyboard */; };
 		B95D2EA92058418200E12E16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B95D2EA82058418200E12E16 /* Assets.xcassets */; };
 		B95D2EAC2058418200E12E16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B95D2EAA2058418200E12E16 /* LaunchScreen.storyboard */; };
+		B95D2EB42058526F00E12E16 /* faces.atlas in Resources */ = {isa = PBXBuildFile; fileRef = B95D2EB32058526F00E12E16 /* faces.atlas */; };
+		B95D2EB62058534100E12E16 /* Bernie_photo_small.png in Resources */ = {isa = PBXBuildFile; fileRef = B95D2EB52058534100E12E16 /* Bernie_photo_small.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		B95D2EA82058418200E12E16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B95D2EAB2058418200E12E16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B95D2EAD2058418200E12E16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B95D2EB32058526F00E12E16 /* faces.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = faces.atlas; sourceTree = SOURCE_ROOT; };
+		B95D2EB52058534100E12E16 /* Bernie_photo_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bernie_photo_small.png; path = faces.atlas/Bernie_photo_small.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				B95D2EA12058418200E12E16 /* AppDelegate.swift */,
 				B95D2EA32058418200E12E16 /* ViewController.swift */,
 				B95D2EA52058418200E12E16 /* Main.storyboard */,
+				B95D2EB52058534100E12E16 /* Bernie_photo_small.png */,
+				B95D2EB32058526F00E12E16 /* faces.atlas */,
 				B95D2EA82058418200E12E16 /* Assets.xcassets */,
 				B95D2EAA2058418200E12E16 /* LaunchScreen.storyboard */,
 				B95D2EAD2058418200E12E16 /* Info.plist */,
@@ -123,6 +129,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B95D2EB62058534100E12E16 /* Bernie_photo_small.png in Resources */,
+				B95D2EB42058526F00E12E16 /* faces.atlas in Resources */,
 				B95D2EAC2058418200E12E16 /* LaunchScreen.storyboard in Resources */,
 				B95D2EA92058418200E12E16 /* Assets.xcassets in Resources */,
 				B95D2EA72058418200E12E16 /* Main.storyboard in Resources */,
